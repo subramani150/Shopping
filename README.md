@@ -8,4 +8,4 @@ Minimum Android version required is Lollipop version (5.0)
 click the shopping list button in the front page. At the second page you need to enter the item name and amount and click add entry to add to the list. 
 
 # Note
-App name is setted as Budget App
+App name is setted as Budget App. I'm unable to share the files to Github, So i'm uploading the zip file.
